@@ -1,0 +1,8 @@
+Q: What are your customer support hours?
+A: Our support team is available Monday through Friday, 9 AM to 5 PM IST.
+
+Q: Where are you located?
+A: We are headquartered in Hyderabad, India.
+
+Q: How can I reset my password?
+A: Click "Forgot Password" on the login page and follow the email instructions.

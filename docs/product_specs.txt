@@ -1,0 +1,6 @@
+Product Name: SmartHome Hub 2.0
+Processor: Quad-core 1.8GHz
+RAM: 2GB
+Connectivity: Wi-Fi, Bluetooth 5.0
+Battery: 3000 mAh, lasts up to 48 hours
+Compatible with Alexa and Google Assistant
